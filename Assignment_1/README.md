@@ -1,1 +1,1 @@
-Solutions for First Assignment Data Structures
+Solutions for First Assignment of Data Structures
